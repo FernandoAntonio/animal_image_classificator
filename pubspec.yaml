@@ -1,0 +1,26 @@
+name: animal_image_model
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  tflite: ^1.1.1
+  image_picker: ^0.6.3+1
+  gradient_app_bar: ^0.1.3
+  flutter_gradients: ^1.0.0
+  gradient_widgets: ^0.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+   - model/
