@@ -1,4 +1,4 @@
-# animal_image_classificator
+# Animal Image Classificator
 
 A new Flutter application.
 
